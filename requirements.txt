@@ -1,7 +1,7 @@
 streamlit
 numpy
 matplotlib
-
+pandas
 
 
 

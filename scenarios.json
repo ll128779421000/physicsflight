@@ -1,0 +1,62 @@
+{
+  "top values": {
+    "v0": 194,
+    "angle": 90,
+    "h0": 100,
+    "planet": "Mars",
+    "medium": "Vacuum",
+    "air_res": true,
+    "restitution": 1.0,
+    "ground_friction": 0.5
+  },
+  "top": {
+    "v0": 156,
+    "angle": 68,
+    "h0": 73,
+    "planet": "Earth",
+    "medium": "Vacuum",
+    "air_res": true,
+    "restitution": 0.75,
+    "ground_friction": 0.4
+  },
+  "test 1": {
+    "v0": 50,
+    "angle": 45,
+    "h0": 0,
+    "planet": "Earth",
+    "medium": "Vacuum",
+    "air_res": true,
+    "restitution": 0.6,
+    "ground_friction": 0.05
+  },
+  "tes2": {
+    "v0": 193,
+    "angle": 86,
+    "h0": 99,
+    "planet": "Earth",
+    "medium": "Vacuum",
+    "air_res": true,
+    "restitution": 1.0,
+    "ground_friction": 0.5
+  },
+  "tests1234": {
+    "v0": 109,
+    "angle": 35,
+    "h0": 70,
+    "planet": "Moon",
+    "medium": "Air",
+    "air_res": true,
+    "restitution": 0.2,
+    "ground_friction": 0.28
+  },
+  "sdfghff": {
+    "v0": 50,
+    "angle": 45,
+    "h0": 0,
+    "planet": "Earth",
+    "medium": "Vacuum",
+    "air_res": true,
+    "restitution": 0.6,
+    "ground_friction": 0.05
+  }
+}
