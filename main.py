@@ -102,7 +102,7 @@ if st.sidebar.button("Run Simulation"):
 g = PLANET_GRAVITIES[planet]
 drag = DRAG_COEFFICIENTS[medium]
 st.sidebar.markdown(f"**Gravity (g):** `{g} m/s²`")
-st.sidebar.markdown(f"**Drag coefficient:** `{drag}`")
+st.sidebar.markdown(f"**Drag coefficient:** `{drag}`") 
 
 if medium == "Vacuum":
     st.sidebar.caption("Air resistance disabled in Vacuum (drag = 0).")
